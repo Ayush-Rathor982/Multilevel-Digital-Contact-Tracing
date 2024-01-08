@@ -1,0 +1,90 @@
+	Contacting Person 1
+ 
+index0 Contected Person 3		 0 1 1 0 0 
+index1 Contected Person 6		 1 0 1 0 0 
+index2 Contected Person -9999		 
+index3 Contected Person -9999		 
+index4 Contected Person -9999		 
+
+ 
+	Contacting Person 2
+ 
+index5 Contected Person 4		 0 0 1 0 0 
+index6 Contected Person 3		 0 0 0 1 0 
+index7 Contected Person -9999		 
+index8 Contected Person -9999		 
+index9 Contected Person -9999		 
+
+ 
+	Contacting Person 3
+ 
+index10 Contected Person 1		 0 1 1 0 0 
+index11 Contected Person 5		 0 0 1 0 0 
+index12 Contected Person 2		 0 0 0 1 0 
+index13 Contected Person -9999		 
+index14 Contected Person -9999		 
+
+ 
+	Contacting Person 4
+ 
+index15 Contected Person 5		 0 1 0 0 0 
+index16 Contected Person 6		 1 1 1 0 0 
+index17 Contected Person 2		 0 0 1 0 0 
+index18 Contected Person -9999		 
+index19 Contected Person -9999		 
+
+ 
+	Contacting Person 5
+ 
+index20 Contected Person -9999		 
+index21 Contected Person 4		 0 1 0 0 0 
+index22 Contected Person 3		 0 0 1 0 0 
+index23 Contected Person -9999		 
+index24 Contected Person -9999		 
+
+ 
+	Contacting Person 6
+ 
+index25 Contected Person 4		 1 1 1 0 0 
+index26 Contected Person 1		 1 0 1 0 0 
+index27 Contected Person -9999		 
+index28 Contected Person -9999		 
+index29 Contected Person -9999		 
+
+ 
+	Contacting Person 7
+ 
+index30 Contected Person -9999		 
+index31 Contected Person 8		 0 1 0 0 1 
+index32 Contected Person -9999		 
+index33 Contected Person -9999		 
+index34 Contected Person -9999		 
+
+ 
+	Contacting Person 8
+ 
+index35 Contected Person 7		 0 1 0 0 1 
+index36 Contected Person 9		 1 1 0 0 1 
+index37 Contected Person 10		 1 0 0 0 0 
+index38 Contected Person -9999		 
+index39 Contected Person -9999		 
+
+ 
+	Contacting Person 9
+ 
+index40 Contected Person 8		 1 1 0 0 1 
+index41 Contected Person -9999		 
+index42 Contected Person -9999		 
+index43 Contected Person -9999		 
+index44 Contected Person -9999		 
+
+ 
+	Contacting Person 10
+ 
+index45 Contected Person 8		 1 0 0 0 0 
+index46 Contected Person -9999		 
+index47 Contected Person -9999		 
+index48 Contected Person -9999		 
+index49 Contected Person -9999		 
+
+ 
