@@ -1,0 +1,20 @@
+Infected Person 	90
+level 1
+36 18 15 32 93 6 51 38 67 73 92 
+level1 count: 11
+level 2
+82 69 62 14 35 44 39 37 40 7 99 20 52 95 34 16 23 4 42 89 61 98 85 41 54 9 56 21 3 33 31 29 25 81 49 84 55 5 87 1 13 
+level2 count: 41
+level 3
+96 53 66 71 94 74 60 83 50 78 75 2 11 46 68 65 19 97 22 12 24 64 70 77 58 26 28 47 57 30 17 86 72 43 10 48 88 8 91 45 80 
+level3 count: 41
+Infected Person 	2
+level 1
+
+level1 count: 0
+Infected Person 	12
+level 1
+
+level1 count: 0
+
+total count of traced persons: 93

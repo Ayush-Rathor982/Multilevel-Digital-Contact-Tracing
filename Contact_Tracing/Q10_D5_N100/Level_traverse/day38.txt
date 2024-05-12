@@ -1,0 +1,20 @@
+Infected Person 	27
+level 1
+59 
+level1 count: 1
+level 2
+
+level2 count: 0
+Infected Person 	42
+level 1
+
+level1 count: 0
+Infected Person 	37
+level 1
+100 
+level1 count: 1
+level 2
+
+level2 count: 0
+
+total count of traced persons: 2
