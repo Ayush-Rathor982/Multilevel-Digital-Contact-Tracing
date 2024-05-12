@@ -1,4 +1,4 @@
-Title: Multilevel Digital Contact Tracing, G. Mahapatra, P. Pradhan, A. Khan, S. K. Setua, R. K. Pal, A. Rathor, R. Chattaraj, S. Banerjee.
+Title: Multilevel Digital Contact Tracing, G. Mahapatra, P. Pradhan, A. Khan, S. K. Setua, R. K. Pal, A. Rathor.
 
 
 The code segment generates and trace infected chain and seperates it from main contact network of large synthetic data sets
